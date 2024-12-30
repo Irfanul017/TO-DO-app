@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Tasks</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="welcomeText">Welcome to ToDo List</string>
+    <string name="login">Login</string>
+    <string name="create_account">CREATE ACCOUNT</string>
+    <string name="task">Task</string>
+    <string name="description">Description.......</string>
+    <string name="date_created">Date Created</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="username">Username</string>
+    <string name="create_an_account">Create An Account?</string>
+    <string name="tasks_tasks_tasks">Tasks Tasks Tasks</string>
+    <string name="already_a_registered_user_signin">Already a Registered User,SignIn</string>
+    <string name="post_title">Post Title</string>
+    <string name="post_date">Post Date</string>
+    <string name="save_post">Save Post</string>
+    <string name="thoughts">Thoughts</string>
+</resources>
